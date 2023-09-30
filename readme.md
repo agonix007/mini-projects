@@ -8,8 +8,8 @@ All the projects are mobile responsive so feel free to check it from your mobile
 
 |  #  |                                                         Project                                                          |                                           Live Demo                                           |
 | :-: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-| 01  |   [Email Subscribe]()      |    [Live Demo]()    |
-| 02  |     [Pricing Grids]()      |    [Live Demo]()    |
-| 03  |     [Product Modal]()      |    [Live Demo]()    |
-| 04  |     [Image Gallery]()      |    [Live Demo]()    |
-| 05  |       [Login Modal]()      |    [Live Demo]()    |
+| 01  |   [Email Subscribe](https://github.com/agonix007/mini-projects-of-tailwindcss/tree/main/email-subscribe)      |    [Live Demo](https://email-subscribee.netlify.app/)    |
+| 02  |     [Pricing Grids](https://github.com/agonix007/mini-projects-of-tailwindcss/tree/main/pricing-cards)      |    [Live Demo](https://pricing-caards.netlify.app/)    |
+| 03  |     [Product Modal](https://github.com/agonix007/mini-projects-of-tailwindcss/tree/main/product-modal)      |    [Live Demo](https://product-modall.netlify.app/)    |
+| 04  |     [Image Gallery](https://github.com/agonix007/mini-projects-of-tailwindcss/tree/main/image-gallery)      |    [Live Demo](https://emage-gallery.netlify.app/)    |
+| 05  |       [Login Modal](https://github.com/agonix007/mini-projects-of-tailwindcss/tree/main/login-modal)      |    [Live Demo](https://logiin-modal.netlify.app/)    |
